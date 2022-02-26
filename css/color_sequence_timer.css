@@ -1,0 +1,235 @@
+#mydiv10{
+  width:210px;
+    margin:0 auto;   
+    text-align:center;
+    font-weight:bold;
+    color:#FFF;
+    margin-bottom: 10px;
+}
+#mydiv101{
+  float:left;
+        width:50px;
+        min-height:50px;
+        background:#5C6BC0;
+  border-style:ridge;
+  border-width:medium;
+}
+#mydiv102{
+  float:left;
+        width:50px;
+        min-height:50px;
+        background:#3F51B5;
+  border-style:ridge;
+  border-width:medium;
+}
+#mydiv103{
+  float:left;
+        width:50px;
+        min-height:50px;
+        background:#283593;
+  border-style:ridge;
+  border-width:medium;
+}
+#mydiv6{
+  width:210px;
+  margin:0 auto;   
+  text-align:center;
+  font-weight:bold;
+  color:#FFF;
+  margin-bottom: 10px;
+}
+#mydiv61{
+  float:left;
+        width:50px;
+        min-height:50px;
+        background:#9CCC65;
+  border-style:ridge;
+  border-width:medium;
+}
+#mydiv62{
+  float:left;
+        width:50px;
+        min-height:50px;
+        background:#7CB342;
+  border-style:ridge;
+  border-width:medium;
+
+}
+#mydiv63{
+  float:left;
+        width:50px;
+        min-height:50px;
+        background:#558B2F;
+  border-style:ridge;
+  border-width:medium;
+}
+#mydiv5{
+  width:210px;
+  margin:0 auto;   
+  text-align:center;
+  font-weight:bold;
+  color:#FFF;
+  margin-bottom: 10px;
+}
+#mydiv51{
+  float:left;
+        width:50px;
+        min-height:50px;
+        background:#FFF59D;
+  border-style:ridge;
+  border-width:medium;
+}
+#mydiv52{
+  float:left;
+        width:50px;
+        min-height:50px;
+        background:#FFEE58;
+  border-style:ridge;
+  border-width:medium;
+}
+#mydiv53{
+  float:left;
+        width:50px;
+        min-height:50px;
+        background:#FDD835;
+  border-style:ridge;
+  border-width:medium;
+}
+#mydiv7{
+  width:210px;
+  margin:0 auto;   
+  text-align:center;
+  font-weight:bold;
+  color:#FFF;
+  margin-bottom: 10px;
+}
+#mydiv71{
+  float:left;
+        width:50px;
+        min-height:50px;
+        background:#E57373;
+  border-style:ridge;
+  border-width:medium;
+}
+#mydiv72{
+  float:left;
+        width:50px;
+        min-height:50px;
+        background:#EF5350;
+  border-style:ridge;
+  border-width:medium;
+}
+#mydiv73{
+  float:left;
+        width:50px;
+        min-height:50px;
+        background:#E53935;
+  border-style:ridge;
+  border-width:medium;
+}
+#mydiv3{
+  width:210px;
+  margin:0 auto;   
+  text-align:center;
+  font-weight:bold;
+  color:#FFF;
+  margin-bottom: 10px;
+}
+#mydiv31{
+  float:left;
+        width:50px;
+        min-height:50px;
+        background:#F48FB1;
+  border-style:ridge;
+  border-width:medium;
+}
+#mydiv32{
+  float:left;
+        width:50px;
+        min-height:50px;
+        background:#F06292;
+  border-style:ridge;
+  border-width:medium;
+}
+#mydiv33{
+  float:left;
+        width:50px;
+        min-height:50px;
+        background:#EC407A;
+  border-style:ridge;
+  border-width:medium;
+}
+#mydiv1{
+    width:210px;
+    margin:0 auto;   
+    text-align:center;
+    font-weight:bold;
+    color:#FFF;
+    margin-bottom: 10px;
+}
+
+#mydiv11 {
+
+        float:left;
+        width:50px;
+        min-height:50px;
+        background:#BB8FCE;
+  border-style:ridge;
+  border-width:medium;
+}  
+
+#mydiv12 {
+        float:left;
+        width:50px;
+        min-height:50px;
+        background:#A569BD;
+  border-style:ridge;
+  border-width:medium;
+}
+#mydiv13 {
+        float:left;
+        width:50px;
+        min-height:50px;
+        background:#7D3C98;
+  border-style:ridge;
+  border-width:medium;
+}
+#mydiv8{
+  width:210px;
+    margin:0 auto;   
+    text-align:center;
+    font-weight:bold;
+    color:#FFF;;
+    margin-bottom: 10px;
+}
+#mydiv81{
+  float:left;
+        width:50px;
+        min-height:50px;
+        background:#8D6E63;
+  border-style:ridge;
+  border-width:medium;
+}
+#mydiv82{
+  float:left;
+        width:50px;
+        min-height:50px;
+        background:#6D4C41;
+  border-style:ridge;
+  border-width:medium;
+}
+#mydiv83{
+  float:left;
+        width:50px;
+        min-height:50px;
+        background:#4E342E;
+  border-style:ridge;
+  border-width:medium;
+}
+#background {
+    position: center;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    height: 110%;
+}

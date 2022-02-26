@@ -1,0 +1,391 @@
+#pos1{
+	width: 168px;
+	margin: 100px;
+	float: right;
+	position: relative;
+	left: -250px;
+}
+#pos2{
+	width: 168px;
+	margin: 0px;
+	float: right;
+	position: relative;
+	right: -300px;
+	bottom: -100px;
+}
+#mydiv1 {
+    width:168px;
+    height:55px;
+    margin-bottom: 15px;
+}
+#mydiva {
+	float:left;
+    width:50px;
+    min-height:50px;
+    background:#5C6BC0;
+	border-style:ridge;
+	border-width:medium;
+}  
+#mydivb {
+    float:left;
+    width:50px;
+    min-height:50px;
+    background:#3F51B5;
+	border-style:ridge;
+	border-width:medium;
+}
+#mydiv13 {
+    float:left;
+    width:50px;
+    min-height:50px;
+    background:#283593;
+	border-style:ridge;
+	border-width:medium;
+}
+#mydiv2{
+	width:168px;
+    height:55px;
+    margin-bottom: 15px;
+}
+#mydiv21{
+	float:left;
+    width:50px;
+    min-height:50px;
+    background:#CACFD2;
+	border-style:ridge;
+	border-width:medium;
+}
+#mydiv22{
+	float:left;
+    width:50px;
+    min-height:50px;
+    background:#A6ACAF;
+	border-style:ridge;
+	border-width:medium;
+}
+#mydiv23{
+	float:left;
+    width:50px;
+    min-height:50px;
+    background:#909497;
+	border-style:ridge;
+	border-width:medium;
+}
+#mydiv3{
+	width:168px;
+    height:55px; 
+    margin-bottom: 15px;
+}
+#mydiv31{
+	float:left;
+    width:50px;
+    min-height:50px;
+    background:#9CCC65;
+	border-style:ridge;
+	border-width:medium;
+}
+#mydiv32{
+	float:left;
+    width:50px;
+    min-height:50px;
+    background:#7CB342;
+	border-style:ridge;
+	border-width:medium;
+}
+#mydiv33{
+	float:left;
+    width:50px;
+    min-height:50px;
+    background:#558B2F;
+	border-style:ridge;
+	border-width:medium;
+}
+#mydiv4{
+	width:168px;
+    height:55px;
+    margin-bottom: 15px;   
+}
+#mydiv41{
+	float:left;
+    width:50px;
+    min-height:50px;
+    background:#81D4FA;
+	border-style:ridge;
+	border-width:medium;
+}
+#mydiv42{
+	float:left;
+    width:50px;
+    min-height:50px;
+    background:#29B6F6;
+	border-style:ridge;
+	border-width:medium;
+}
+#mydiv43{
+	float:left;
+    width:50px;
+    min-height:50px;
+    background:#039BE5;
+	border-style:ridge;
+	border-width:medium;
+}
+#mydiv5{
+	width:168px;
+    height:55px;
+    margin-bottom: 15px;
+}
+#mydiv51{
+	float:left;
+    width:50px;
+    min-height:50px;
+    background:#FFF59D;
+	border-style:ridge;
+	border-width:medium;
+}
+#mydiv52{
+	float:left;
+    width:50px;
+    min-height:50px;
+    background:#FFEE58;
+	border-style:ridge;
+	border-width:medium;
+}
+#mydiv53{
+	float:left;
+    width:50px;
+    min-height:50px;
+    background:#FDD835;
+	border-style:ridge;
+	border-width:medium;
+}
+#mydiv6{
+	width:168px;
+    height:55px;
+    margin-bottom: 15px;
+}
+#mydiv61{
+	float:left;
+    width:50px;
+    min-height:50px;
+    background:#E57373;
+	border-style:ridge;
+	border-width:medium;
+}
+#mydiv62{
+	float:left;
+    width:50px;
+    min-height:50px;
+    background:#EF5350;
+	border-style:ridge;
+	border-width:medium;
+}
+#mydiv63{
+	float:left;
+    width:50px;
+    min-height:50px;
+    background:#E53935;
+	border-style:ridge;
+	border-width:medium;
+}
+#mydiv7{
+	width:168px;
+    height:55px;
+    margin-bottom: 15px;
+}
+#mydiv71{
+	float:left;
+    width:50px;
+    min-height:50px;
+    background:#F48FB1;
+	border-style:ridge;
+	border-width:medium;
+}
+#mydiv72{
+	float:left;
+    width:50px;
+    min-height:50px;
+    background:#F06292;
+	border-style:ridge;
+	border-width:medium;
+}
+#mydiv73{
+	float:left;
+    width:50px;
+    min-height:50px;
+    background:#EC407A;
+	border-style:ridge;
+	border-width:medium;
+}
+#mydiv8{
+	width:168px;
+    height:55px;
+    margin-bottom: 15px;
+}
+#mydiv81{
+	float:left;
+    width:50px;
+    min-height:50px;
+    background:#BB8FCE;
+	border-style:ridge;
+	border-width:medium;
+}
+#mydiv82{
+	float:left;
+    width:50px;
+    min-height:50px;
+    background:#A569BD;
+	border-style:ridge;
+	border-width:medium;
+}
+#mydiv83{
+	float:left;
+    width:50px;
+    min-height:50px;
+    background:#7D3C98;
+	border-style:ridge;
+	border-width:medium;
+}
+#mydiv9{
+	width:168px;
+    height:55px;
+    margin-bottom: 15px;
+}
+#mydiv91{
+	float:left;
+    width:50px;
+    min-height:50px;
+    background:#BDBDBD;
+	border-style:ridge;
+	border-width:medium;
+}
+#mydiv92{
+	float:left;
+    width:50px;
+    min-height:50px;
+    background:#9E9E9E;
+	border-style:ridge;
+	border-width:medium;
+}
+#mydiv93{
+	float:left;
+    width:50px;
+    min-height:50px;
+    background:#757575;
+	border-style:ridge;
+	border-width:medium;
+}
+#mydiv10{
+	width:168px;
+    height:55px;
+    margin-bottom: 15px;
+}
+#mydiv101{
+	float:left;
+    width:50px;
+    min-height:50px;
+    background:#8D6E63;
+	border-style:ridge;
+	border-width:medium;
+}
+#mydiv102{
+	float:left;
+    width:50px;
+    min-height:50px;
+    background:#6D4C41;
+	border-style:ridge;
+	border-width:medium;
+}
+#mydiv103{
+	float:left;
+    width:50px;
+    min-height:50px;
+    background:#4E342E;
+	border-style:ridge;
+	border-width:medium;
+}
+#mydiv11{
+	width:168px;
+    height:55px;
+    margin-bottom: 15px;
+}
+#mydiva1{
+	float:left;
+    width:50px;
+    min-height:50px;
+    background:#FF8A65;
+	border-style:ridge;
+	border-width:medium;
+}	
+#mydiva2{
+	float:left;
+    width:50px;
+    min-height:50px;
+    background:#FF7043;
+	border-style:ridge;
+	border-width:medium;
+}
+#mydiva3{
+	float:left;
+    width:50px;
+    min-height:50px;
+    background:#FF5722;
+	border-style:ridge;
+	border-width:medium;
+}
+#mydiv12{
+	width:168px;
+    height:55px;
+    margin-bottom: 15px;
+}
+#mydivb1{
+	float:left;
+    width:50px;
+    min-height:50px;
+    background:#B0BEC5;
+	border-style:ridge;
+	border-width:medium;
+}
+#mydivb2{
+	float:left;
+    width:50px;
+    min-height:50px;
+    background:#90A4AE;
+	border-style:ridge;
+	border-width:medium;
+}
+#mydivb3{
+	float:left;
+    width:50px;
+    min-height:50px;
+    background:#607D8B;
+	border-style:ridge;
+	border-width:medium;
+}
+#para{
+	position: relative;
+	top: -500px;
+}
+#para1{
+	position: relative;
+	top: -500px;
+}
+#para2{
+	position: relative;
+	top: -500px;
+}
+#para3{
+	position: relative;
+	top: -700px;
+}
+#para4{
+	position: relative;
+	top: -800px;
+}
+.old{
+	border:2px transparent;
+}
+.new{
+	border: 2px solid black;
+}
+.hide{visibility: hidden;}
+.show{visibility: initial;}

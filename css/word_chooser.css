@@ -1,0 +1,127 @@
+#pos1{
+	width: 168px;
+	margin: 100px;
+	float: right;
+	position: relative;
+	left: -250px;
+}
+#pos2{
+	width: 168px;
+	margin: 0px;
+	float: right;
+	position: relative;
+	right: -300px;
+	bottom: -100px;
+}
+#mydiv1 {
+    width:130px;
+    height:25px;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 130%; font-weight: bold; color: blue;
+}
+#mydiv2 {
+    width:130px;
+    height:25px;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 130%; font-weight: bold; color: #7CB342;
+}
+#mydiv3 {
+    width:130px;
+    height:25px;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 130%; font-weight: bold; color: orange;
+}
+#mydiv4 {
+    width:130px;
+    height:25px;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 130%; font-weight: bold; color: #909497;
+}
+#mydiv5 {
+    width:130px;
+    height:25px;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 130%; font-weight: bold; color: yellow;
+}
+#mydiv6 {
+    width:130px;
+    height:25px;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 130%; font-weight: bold; color: red;
+}
+#mydiv7 {
+    width:130px;
+    height:25px;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 130%; font-weight: bold; color: brown;
+}
+#mydiv8 {
+    width:130px;
+    height:25px;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 130%; font-weight: bold; color: green;
+}
+#mydiv9 {
+    width:130px;
+    height:25px;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 130%; font-weight: bold; color: #039BE5;
+}
+#mydiv10 {
+    width:130px;
+    height:25px;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 130%; font-weight: bold; color: purple;
+}
+#mydiv11 {
+    width:130px;
+    height:25px;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 130%; font-weight: bold; color: #EC407A;
+}
+#mydiv12 {
+    width:130px;
+    height:25px;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 130%; font-weight: bold; color: black;
+}
+#para{
+	position: relative;
+	top: -500px;
+}
+#para1{
+	position: relative;
+	top: -500px;
+}
+#para2{
+	position: relative;
+	top: -500px;
+}
+#para3{
+	position: relative;
+	top: -700px;
+}
+#para4{
+	position: relative;
+	top: -800px;
+}
+.old{
+	border:2px transparent;
+}
+.new{
+	border: 2px solid black;
+}
+.hide{visibility: hidden;}
+.show{visibility: initial;}
